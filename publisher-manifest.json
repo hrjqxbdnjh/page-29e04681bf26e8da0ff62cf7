@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "aa5a7484b7dcd123a0650914",
+  "owner": "hrjqxbdnjh",
+  "repo": "page-29e04681bf26e8da0ff62cf7",
+  "title": "oxox",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "29e04681bf26e8da0ff62cf7",
+      "a": "oxox",
+      "b": "",
+      "entity": "oxox",
+      "brand": "oxox",
+      "separator": "",
+      "path": "index.html",
+      "hash": "69e40bc784c55d0759d42d7f82eadaf182bfea668685eb855cda10ac488e5522",
+      "content": {
+        "keyword1": "oxox",
+        "keyword2": "",
+        "primary_entity": "oxox",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "oxox 为你提供轻松、稳定且友好的网络连接服务。无论日常浏览还是工作娱乐，我们都像老朋友一样在身边为你护航。",
+          "AI_DESCRIPTION": "oxox 为你提供轻松、稳定且友好的网络连接服务。无论日常浏览还是工作娱乐，我们都像老朋友一样在身边为你护航。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {background-color: #f4f2f8;color: #2b263d;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif;line-height: 1.6;display: flex;min-height: 100vh}\naside.sidebar {width: 260px;background-color: #ffffff;border-right: 2px solid #2b263d;padding: 2.5rem 1.5rem;position: fixed;height: 100vh;overflow-y: auto;display: flex;flex-direction: column;justify-content: space-between}\naside.sidebar .logo-area h1 {font-size: 2rem;color: #6c35de;letter-spacing: -1px;margin-bottom: 0.5rem}\naside.sidebar .logo-area p {font-size: 0.9rem;color: #665c84}\naside.sidebar nav ul {list-style: none;margin-top: 2rem}\naside.sidebar nav ul li {margin-bottom: 1rem}\naside.sidebar nav ul li a {text-decoration: none;color: #2b263d;font-weight: 600;font-size: 1.05rem;display: block;padding: 0.5rem 0.75rem;border: 2px solid transparent;transition: all 0.2s ease}\naside.sidebar nav ul li a:hover {border-color: #6c35de;background-color: #f9f7fc;color: #6c35de}\n.sidebar-footer {font-size: 0.8rem;color: #8c82a6}\nmain {margin-left: 260px;flex: 1;padding: 3rem;max-width: 1100px}\nsection {margin-bottom: 4rem}\n.hero-dashboard {display: grid;grid-template-columns: repeat(3, 1fr);gap: 1.5rem;margin-top: 1.5rem}\n.dash-card {background: #ffffff;border: 3px solid #2b263d;padding: 2rem;box-shadow: 6px 6px 0px #2b263d}\n.dash-card.main-intro {grid-column: span 3;background: #6c35de;color: #ffffff;box-shadow: 6px 6px 0px #2b263d}\n.dash-card.main-intro h2 {font-size: 2.2rem;margin-bottom: 1rem}\n.dash-card.main-intro p {font-size: 1.15rem;line-height: 1.7}\n.dash-card h3 {font-size: 1.1rem;color: #6c35de;margin-bottom: 0.5rem;text-transform: uppercase;letter-spacing: 1px}\n.dash-card .stat-value {font-size: 2rem;font-weight: bold;color: #2b263d}\nh2.section-title {font-size: 2rem;margin-bottom: 1.5rem;color: #2b263d;border-bottom: 3px solid #2b263d;padding-bottom: 0.5rem;display: inline-block}\n.plans-stack {display: flex;flex-direction: column;gap: 2rem}\n.plan-card {background: #ffffff;border: 3px solid #2b263d;padding: 2.5rem;box-shadow: 6px 6px 0px #2b263d;display: flex;justify-content: space-between;align-items: flex-start}\n.plan-card.featured {border-color: #6c35de;background: #fdfcff}\n.plan-info h3 {font-size: 1.8rem;color: #2b263d;margin-bottom: 0.5rem}\n.plan-price {font-size: 2rem;font-weight: bold;color: #6c35de;margin-bottom: 0.2rem}\n.plan-annual {font-size: 0.95rem;color: #665c84;margin-bottom: 1.5rem}\n.plan-features {list-style: none}\n.plan-features li {margin-bottom: 0.6rem;position: relative;padding-left: 1.5rem;color: #4a4261}\n.plan-features li::before {content: \"✓\";position: absolute;left: 0;color: #6c35de;font-weight: bold}\n.plan-action {display: inline-block;background: #2b263d;color: #ffffff;padding: 0.75rem 1.5rem;text-decoration: none;font-weight: bold;border: 2px solid #2b263d;transition: all 0.2s ease}\n.plan-action:hover {background: #6c35de;border-color: #6c35de}\n.faq-container {display: flex;flex-direction: column;gap: 1rem}\ndetails {background: #ffffff;border: 3px solid #2b263d;box-shadow: 4px 4px 0px #2b263d;transition: all 0.2s ease}\ndetails[open] {background: #fdfcff}\nsummary {font-size: 1.15rem;font-weight: bold;padding: 1.25rem 1.5rem;cursor: pointer;list-style: none;display: flex;justify-content: space-between;align-items: center}\nsummary::-webkit-details-marker {display: none}\nsummary::after {content: \"+\";font-size: 1.5rem;color: #6c35de}\ndetails[open] summary::after {content: \"-\"}\n.faq-content {padding: 0 1.5rem 1.25rem 1.5rem;color: #4a4261;line-height: 1.7}\n.guide-grid {display: grid;grid-template-columns: repeat(2, 1fr);gap: 1.5rem}\n.guide-card {background: #ffffff;border: 3px solid #2b263d;padding: 2rem;box-shadow: 4px 4px 0px #2b263d}\n.guide-card h3 {font-size: 1.3rem;margin-bottom: 0.75rem;color: #6c35de}\n.guide-card p {color: #4a4261}\n@media (max-width: 900px) {\n    body {flex-direction: column}\n    aside.sidebar {position: relative;width: 100%;height: auto;border-right: none;border-bottom: 2px solid #2b263d}\n    main {margin-left: 0;padding: 1.5rem}\n    .hero-dashboard {grid-template-columns: 1fr}\n    .dash-card.main-intro {grid-column: span 1}\n    .plan-card {flex-direction: column;gap: 1.5rem}\n    .guide-grid {grid-template-columns: 1fr}\n}\n</style><aside class=\"sidebar\">\n    <div class=\"logo-area\">\n        <h1>oxox</h1>\n        <p>你的数字生活好搭档</p>\n    </div>\n    <nav>\n        <ul>\n            <li><a href=\"#hero\">仪表盘概览</a></li>\n            <li><a href=\"#guide\">新手上路</a></li>\n            <li><a href=\"#plans\">精选套餐</a></li>\n            <li><a href=\"#faq\">常见问题</a></li>\n        </ul>\n    </nav>\n    <div class=\"sidebar-footer\">\n        <p>© oxox 团队出品<br>轻松互联，自在随心</p>\n    </div>\n</aside>\n\n<main>\n    <section id=\"hero\">\n        <h2 class=\"section-title\">实时数据概览</h2>\n        <div class=\"hero-dashboard\">\n            <div class=\"dash-card main-intro\">\n                <h2>嗨！欢迎来到 oxox</h2>\n                <p>我们致力于为你打造最轻松、无负担的网络连接体验。没有复杂的参数，也不需要折腾繁琐的配置，就像老朋友间的默契一样，点开即用，顺畅自如。</p>\n            </div>\n            <div class=\"dash-card\">\n                <h3>连接状态</h3>\n                <div class=\"stat-value\">稳定在线</div>\n                <p>全节点实时健康监测中</p>\n            </div>\n            <div class=\"dash-card\">\n                <h3>优质线路</h3>\n                <div class=\"stat-value\">极速专线</div>\n                <p>多地节点智能优化分配</p>\n            </div>\n            <div class=\"dash-card\">\n                <h3>设备支持</h3>\n                <div class=\"stat-value\">多端同步</div>\n                <p>手机、电脑、平板全覆盖</p>\n            </div>\n        </div>\n    </section>\n\n    <section id=\"guide\">\n        <h2 class=\"section-title\">轻松上手指南</h2>\n        <div class=\"guide-grid\">\n            <div class=\"guide-card\">\n                <h3>第一步：挑选心仪套餐</h3>\n                <p>根据你的日常使用习惯，从下方选择最适合你的流量方案。无论是轻度浏览还是深度娱乐，总有一款刚好满足你。</p>\n            </div>\n            <div class=\"guide-card\">\n                <h3>第二步：获取专属订阅</h3>\n                <p>完成订阅后，你将在个人中心获得专属的连接配置链接，一键复制，简单快捷。</p>\n            </div>\n            <div class=\"guide-card\">\n                <h3>第三步：导入常用客户端</h3>\n                <p>在你的设备上打开支持的客户端，粘贴订阅地址并更新，即可轻松完成所有准备工作。</p>\n            </div>\n            <div class=\"guide-card\">\n                <h3>第四步：一键畅快连接</h3>\n                <p>选择一个合适的节点，轻轻一点连接按钮，即可开启稳定、顺畅的数字世界探索之旅。</p>\n            </div>\n        </div>\n    </section>\n\n    <section id=\"plans\">\n        <h2 class=\"section-title\">精选流量套餐</h2>\n        <div class=\"plans-stack\">\n            <div class=\"plan-card\">\n                <div class=\"plan-info\">\n                    <h3>基础版</h3>\n                    <div class=\"plan-price\">¥15/月</div>\n                    <div class=\"plan-annual\">按年付仅需 ¥150/年</div>\n                    <ul class=\"plan-features\">\n                        <li>每月 100GB 极速流量</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                </div>\n                <div>\n                    <a href=\"#\" class=\"plan-action\">立即选择</a>\n                </div>\n            </div>\n\n            <div class=\"plan-card featured\">\n                <div class=\"plan-info\">\n                    <h3>旗舰版 <span>超人气推荐</span></h3>\n                    <div class=\"plan-price\">¥35/月</div>\n                    <div class=\"plan-annual\">按年付仅需 ¥350/年</div>\n                    <ul class=\"plan-features\">\n                        <li>每月 300GB 极速流量</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 专线游戏加速优化</li>\n                        <li>7x24 优先工单支持</li>\n                    </ul>\n                </div>\n                <div>\n                    <a href=\"#\" class=\"plan-action\">立即选择</a>\n                </div>\n            </div>\n\n            <div class=\"plan-card\">\n                <div class=\"plan-info\">\n                    <h3>团队版</h3>\n                    <div class=\"plan-price\">¥85/月</div>\n                    <div class=\"plan-annual\">按年付仅需 ¥850/年</div>\n                    <ul class=\"plan-features\">\n                        <li>每月 1000GB 极速流量</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                </div>\n                <div>\n                    <a href=\"#\" class=\"plan-action\">立即选择</a>\n                </div>\n            </div>\n        </div>\n    </section>\n\n    <section id=\"faq\">\n        <h2 class=\"section-title\">常见问题解答</h2>\n        <div class=\"faq-container\">\n            <details>\n                <summary>oxox 适合哪些设备和客户端？</summary>\n                <div class=\"faq-content\">\n                    我们支持主流的各类操作系统和常用客户端。无论你使用的是手机、电脑还是平板，都能找到对应的简便配置方式。在新手指南里有详细的步骤说明，跟着做就能轻松搞定。\n                </div>\n            </details>\n\n            <details>\n                <summary>如果流量用完了怎么办？</summary>\n                <div class=\"faq-content\">\n                    别担心！当你的套餐流量使用完毕时，你可以随时在后台选择重置流量，或者直接升级到容量更大的套餐。所有操作都是即时生效的，完全不耽误你的正常使用。\n                </div>\n            </details>\n\n            <details>\n                <summary>年付套餐有什么特别的优惠吗？</summary>\n                <div class=\"faq-content\">\n                    当然有！选择年付不仅能享受更划算的总价（相当于省下了好几个月的费用），还能免去每月续费的小麻烦，让你的连接服务长久稳定在线。\n                </div>\n            </details>\n\n            <details>\n                <summary>遇到连接问题该怎么寻求帮助？</summary>\n                <div class=\"faq-content\">\n                    随时可以联系我们！我们的客服和技术支持团队就像老朋友一样热心，无论是配置上的小疑问还是节点选择上的小困惑，都可以通过工单系统告诉我们，我们会尽快帮你解决。\n                </div>\n            </details>\n        </div>\n    </section>\n</main>",
+          "hash": "1c3fa6882ea3499010880d24c46b5e2b27c97480d511167f80f072412b0cbcee",
+          "seo": {
+            "title": "oxox - 轻松畅联的数字生活好搭档",
+            "keywords": "oxox, 网络加速, 流量套餐, 多设备连接, 专线网络",
+            "description": "oxox 为你提供轻松、稳定且友好的网络连接服务。无论日常浏览还是工作娱乐，我们都像老朋友一样在身边为你护航。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "5203",
+            "hero": "4 仪表盘式数据块拼贴",
+            "palette": "4 浅灰配电光紫",
+            "nav": "2 左侧竖排目录",
+            "card": "2 粗描边直角",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "2 亲切的朋友式口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "beolj.cn",
+    "host": "p-7a6a9e0678.beolj.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "463c16242e5b87842937cd27b7da9a8b42f0737c4699fcc45ab03a3baea3eee9",
+    "sitemap.xml": "5a9b7675153dafa6798d826c61ff26fde4a33718a6973154758aa57e1cdac5cf",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e174669b958d1a489b6d1bf17cd03be5e68c3471072d5c6d9b19a87f729a161b",
+    "robots.txt": "fe8cdbc9b53af8f82daae60ca622154a4034a7670e770924c5151bdb734bd5d0",
+    "3b90b15f278184bb4fb7cb951961071a.txt": "0cd42e26370d7f9f361fa3a605b993c11a4b51282a9b51b923d465adfa0f931e"
+  },
+  "revision": "f93df42026d7b9261d992169f9e06767befe9722077b3dd94f0cdf0e244ff881"
+}
